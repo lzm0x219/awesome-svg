@@ -1,4 +1,4 @@
-# Material Svg
+# Awesome Svg
 
 A collection of useful svg.
 
